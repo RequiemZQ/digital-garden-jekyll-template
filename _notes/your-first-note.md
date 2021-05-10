@@ -8,8 +8,6 @@ title: Your first seed
 
 ### Link syntax
 
-To link to another note, you can use multiple syntaxes. The following four use the "double-bracket" notation ([view the Markdown source file](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) to see the underlying syntax).
-
 - Using the note title: [[a note about cats]]
 - Using the note's filename: [[cats]]
 - Using the note's title, with a label: [[A note about cats|link to the note about cats using the note title]]
@@ -84,11 +82,8 @@ $ cat /dev/urandom | grep "the answer to life" # shell scripts look nice too
 ```
 
 
-### Next steps
+### ** If these tutorials helped you in any way here you can [support](https://ko-fi.com/requiemsnotes) my work. ☕
 
-**If this template is useful to you in any way, consider [donating](https://ko-fi.com/maximevaillancourt) to support my work**. ☕
-
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
 The easiest way to build your own digital garden based on this template is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). 👋
 
