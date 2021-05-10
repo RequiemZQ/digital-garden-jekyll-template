@@ -2,9 +2,9 @@
 title: Your first seed
 ---
 
-### Welcome!
+### !
 
-This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
+### Welcome to my first note! [`notes/`](https://github.com/RequiemZQ/digital-garden-jekyll-template/edit/master/_notes/). 
 
 ### Link syntax
 
